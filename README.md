@@ -2,7 +2,7 @@
 
 ## 🛠️ Tools & Technologies Used
 
-`Python Programming`  `NumPy`  `Pandas`  `Scikit-Learn`  `Tableau Software`  `Matplotlib`  `Statistical Analysis`  `Machine Learning`  `Data Visualization`  `Exploratory Data Analysis`
+`Python Programming` &nbsp; `NumPy` &nbsp; `Pandas` &nbsp; `Scikit-Learn` &nbsp; `Tableau Software` &nbsp; `Matplotlib` &nbsp; `Statistical Analysis` &nbsp; `Machine Learning` &nbsp; `Data Visualization` &nbsp; `Exploratory Data Analysis`
 
 ---
 
@@ -18,35 +18,35 @@ This repository contains my personal practice code and exercises developed while
 
 ### **Course 1: Foundations of Data Science** *(15 hours)*
 
-`Data Ethics`  `Communication`  `Machine Learning`  `Data Analysis`  `Data-Driven Decision-Making`  `Analytical Skills`  `Workflow Management`  `Business Analytics`  `Data Storytelling`  `Stakeholder Communications`  `Data Science`  `Project Management`
+`Data Ethics` &nbsp; `Communication` &nbsp; `Machine Learning` &nbsp; `Data Analysis` &nbsp; `Data-Driven Decision-Making` &nbsp; `Analytical Skills` &nbsp; `Workflow Management` &nbsp; `Business Analytics` &nbsp; `Data Storytelling` &nbsp; `Stakeholder Communications` &nbsp; `Data Science` &nbsp; `Project Management`
 
 ### **Course 2: Get Started with Python** *(24 hours)*
 
-`Python Programming`  `Scripting`  `NumPy`  `Object Oriented Programming (OOP)`  `Pandas (Python Package)`  `Data Structures`  `Data Analysis`  `Programming Principles`  `Data Visualization`  `Algorithms`  `Data Manipulation`
+`Python Programming` &nbsp; `Scripting` &nbsp; `NumPy` &nbsp; `Object Oriented Programming (OOP)` &nbsp; `Pandas (Python Package)` &nbsp; `Data Structures` &nbsp; `Data Analysis` &nbsp; `Programming Principles` &nbsp; `Data Visualization` &nbsp; `Algorithms` &nbsp; `Data Manipulation`
 
 ### **Course 3: Go Beyond the Numbers: Translate Data into Insights** *(27 hours)*
 
-`Exploratory Data Analysis`  `Data Visualization Software`  `Data Validation`  `Tableau Software`  `Data Cleansing`  `Pandas (Python Package)`  `Data Manipulation`  `Data Storytelling`  `Data Analysis`  `Data Presentation`  `Technical Communication`  `Data Processing`  `Data Ethics`  `Python Programming`  `Data Transformation`  `Data Quality`  `Data Visualization`
+`Exploratory Data Analysis` &nbsp; `Data Visualization Software` &nbsp; `Data Validation` &nbsp; `Tableau Software` &nbsp; `Data Cleansing` &nbsp; `Pandas (Python Package)` &nbsp; `Data Manipulation` &nbsp; `Data Storytelling` &nbsp; `Data Analysis` &nbsp; `Data Presentation` &nbsp; `Technical Communication` &nbsp; `Data Processing` &nbsp; `Data Ethics` &nbsp; `Python Programming` &nbsp; `Data Transformation` &nbsp; `Data Quality` &nbsp; `Data Visualization`
 
 ### **Course 4: The Power of Statistics** *(31 hours)*
 
-`Statistical Inference`  `Descriptive Statistics`  `Statistical Hypothesis Testing`  `A/B Testing`  `Sampling (Statistics)`  `Probability`  `Statistics`  `Probability Distribution`  `Technical Communication`  `Data Analysis`  `Python Programming`  `Statistical Analysis`  `Statistical Methods`  `Data Science`  `Statistical Programming`
+`Statistical Inference` &nbsp; `Descriptive Statistics` &nbsp; `Statistical Hypothesis Testing` &nbsp; `A/B Testing` &nbsp; `Sampling (Statistics)` &nbsp; `Probability` &nbsp; `Statistics` &nbsp; `Probability Distribution` &nbsp; `Technical Communication` &nbsp; `Data Analysis` &nbsp; `Python Programming` &nbsp; `Statistical Analysis` &nbsp; `Statistical Methods` &nbsp; `Data Science` &nbsp; `Statistical Programming`
 
 ### **Course 5: Regression Analysis: Simplify Complex Data Relationships** *(28 hours)*
 
-`Regression Analysis`  `Exploratory Data Analysis`  `Statistical Modeling`  `Variance Analysis`  `Statistical Hypothesis Testing`  `Analytical Skills`  `Advanced Analytics`  `Predictive Modeling`  `Business Analytics`  `Python Programming`  `Scikit Learn (Machine Learning Library)`  `Supervised Learning`  `Data Analysis`  `Statistical Analysis`  `Correlation Analysis`  `Machine Learning`  `Probability & Statistics`
+`Regression Analysis` &nbsp; `Exploratory Data Analysis` &nbsp; `Statistical Modeling` &nbsp; `Variance Analysis` &nbsp; `Statistical Hypothesis Testing` &nbsp; `Analytical Skills` &nbsp; `Advanced Analytics` &nbsp; `Predictive Modeling` &nbsp; `Business Analytics` &nbsp; `Python Programming` &nbsp; `Scikit Learn (Machine Learning Library)` &nbsp; `Supervised Learning` &nbsp; `Data Analysis` &nbsp; `Statistical Analysis` &nbsp; `Correlation Analysis` &nbsp; `Machine Learning` &nbsp; `Probability & Statistics`
 
 ### **Course 6: The Nuts and Bolts of Machine Learning** *(34 hours)*
 
-`Supervised Learning`  `Machine Learning`  `Unsupervised Learning`  `Random Forest Algorithm`  `Machine Learning Algorithms`  `Feature Engineering`  `Performance Metric`  `Decision Tree Learning`  `Advanced Analytics`  `Data Ethics`  `Performance Tuning`  `Predictive Modeling`  `Workflow Management`  `Python Programming`  `Classification And Regression Tree (CART)`
+`Supervised Learning` &nbsp; `Machine Learning` &nbsp; `Unsupervised Learning` &nbsp; `Random Forest Algorithm` &nbsp; `Machine Learning Algorithms` &nbsp; `Feature Engineering` &nbsp; `Performance Metric` &nbsp; `Decision Tree Learning` &nbsp; `Advanced Analytics` &nbsp; `Data Ethics` &nbsp; `Performance Tuning` &nbsp; `Predictive Modeling` &nbsp; `Workflow Management` &nbsp; `Python Programming` &nbsp; `Classification And Regression Tree (CART)`
 
 ### **Course 7: Google Advanced Data Analytics Capstone** *(6 hours)*
 
-`Predictive Modeling`  `Business Analysis`  `Statistical Analysis`  `Regression Analysis`  `Machine Learning`  `Data Visualization`  `Python Programming`  `Artificial Intelligence`  `Project Portfolio Management`  `Machine Learning Methods`  `Data Storytelling`  `Advanced Analytics`  `Data Analysis`
+`Predictive Modeling` &nbsp; `Business Analysis` &nbsp; `Statistical Analysis` &nbsp; `Regression Analysis` &nbsp; `Machine Learning` &nbsp; `Data Visualization` &nbsp; `Python Programming` &nbsp; `Artificial Intelligence` &nbsp; `Project Portfolio Management` &nbsp; `Machine Learning Methods` &nbsp; `Data Storytelling` &nbsp; `Advanced Analytics` &nbsp; `Data Analysis`
 
 ### **Course 8: Accelerate Your Job Search with AI** *(6 hours)*
 
-`Applicant Tracking Systems`  `Professional Development`  `Prompt Engineering`  `Interviewing Skills`  `Generative AI`  `Problem Solving`  `Personal Attributes`  `Communication`
+`Applicant Tracking Systems` &nbsp; `Professional Development` &nbsp; `Prompt Engineering` &nbsp; `Interviewing Skills` &nbsp; `Generative AI` &nbsp; `Problem Solving` &nbsp; `Personal Attributes` &nbsp; `Communication`
 
 ---
 
